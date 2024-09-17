@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudMartCommon/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudMartWebParent/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudMartWebParent/CloudMartBackend/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudMartParent/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudMartParent/CloudMartBackend/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudMartWebParent/CloudMartFrontend/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
